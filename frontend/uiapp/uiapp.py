@@ -78,7 +78,7 @@ class State(rx.State):
         self.recommendations = []
 
         try:
-            response = requests.get(f"{BACKEND_URL}/api/chat/questions", timeout=10)
+            response = requests.get(f"{BACKEND_URL}/api/chat/questions", timeout=30)
             data = response.json()
             self.questions = data.get("questions", [])
 
@@ -255,7 +255,7 @@ def navbar() -> rx.Component:
                 justify_content="center",
                 font_size="26px",
             ),
-            rx.text("Vantion", font_size="2em", font_weight="700", color="#1f1b16"),
+            rx.text("Pre-college recommendation app", font_size="2em", font_weight="700", color="#1f1b16"),
             spacing="3",
             align="center",
         ),
