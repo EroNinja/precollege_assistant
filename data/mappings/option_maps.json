@@ -1,0 +1,1296 @@
+{
+  "interest_area": {
+    "medicine": [
+      "doctor",
+      "doctors",
+      "medical",
+      "medicine",
+      "med",
+      "pre med",
+      "premed",
+      "pre-med",
+      "physician",
+      "hospital",
+      "healthcare",
+      "health care",
+      "become a doctor",
+      "want to be a doctor",
+      "medical field",
+      "med school",
+      "medicine track",
+      "clinical medicine",
+      "human medicine",
+      "patient care",
+      "working in a hospital",
+      "health professions",
+      "medical sciences",
+      "medical science",
+      "treating patients",
+      "healing people",
+      "be a physician",
+      "doctor stuff",
+      "clinical work",
+      "medical career"
+    ],
+    "pre-med": [
+      "pre med",
+      "premed",
+      "pre-med",
+      "pre medicine",
+      "pre medical",
+      "future doctor",
+      "doctor path",
+      "medical school preparation",
+      "path to med school",
+      "preparing for med school"
+    ],
+    "nursing": [
+      "nurse",
+      "nurses",
+      "nursing",
+      "registered nurse",
+      "rn",
+      "bsn",
+      "patient care",
+      "bedside care",
+      "want to become a nurse",
+      "be a nurse",
+      "future nurse",
+      "nursing school",
+      "clinical nursing",
+      "hospital nursing",
+      "caregiving",
+      "taking care of patients"
+    ],
+    "dentistry": [
+      "dentist",
+      "dentistry",
+      "dental",
+      "orthodontist",
+      "teeth",
+      "oral health",
+      "dental school",
+      "be a dentist",
+      "future dentist",
+      "oral care",
+      "dental hygiene"
+    ],
+    "public health": [
+      "public health",
+      "community health",
+      "population health",
+      "epidemiology",
+      "health policy",
+      "global health",
+      "health systems",
+      "disease prevention",
+      "health education",
+      "public healthcare"
+    ],
+    "pharmacy": [
+      "pharmacy",
+      "pharmacist",
+      "drugs",
+      "medications",
+      "medicine dispensing",
+      "pharmd",
+      "drug research",
+      "pharmaceuticals",
+      "clinical pharmacy",
+      "retail pharmacy"
+    ],
+    "biology": [
+      "bio",
+      "biology",
+      "life science",
+      "life sciences",
+      "living things",
+      "cells",
+      "cell biology",
+      "molecular biology",
+      "organisms",
+      "human biology",
+      "bio major",
+      "biological sciences",
+      "lab biology",
+      "general biology"
+    ],
+    "biotechnology": [
+      "biotech",
+      "biotechnology",
+      "biotech research",
+      "genetic engineering",
+      "bioengineering",
+      "applied biology",
+      "biotech industry",
+      "drug development"
+    ],
+    "genetics": [
+      "genetics",
+      "genes",
+      "dna",
+      "genomics",
+      "heredity",
+      "gene editing",
+      "crispr",
+      "genetic research"
+    ],
+    "neuroscience": [
+      "brain",
+      "brains",
+      "neuro",
+      "neuroscience",
+      "brain science",
+      "nervous system",
+      "cognitive neuroscience",
+      "brain research",
+      "neural science",
+      "mind and brain"
+    ],
+    "chemistry": [
+      "chemistry",
+      "chem",
+      "chemical science",
+      "molecules",
+      "reactions",
+      "organic chemistry",
+      "inorganic chemistry",
+      "lab chemistry"
+    ],
+    "biochemistry": [
+      "biochemistry",
+      "biochem",
+      "chemical biology",
+      "molecular chemistry",
+      "protein chemistry",
+      "biochemical research"
+    ],
+    "physics": [
+      "physics",
+      "phys",
+      "motion",
+      "energy",
+      "quantum",
+      "astrophysics",
+      "mechanics",
+      "physical science"
+    ],
+    "mathematics": [
+      "math",
+      "mathematics",
+      "algebra",
+      "calculus",
+      "geometry",
+      "number theory",
+      "applied math",
+      "pure math",
+      "math major"
+    ],
+    "statistics": [
+      "statistics",
+      "stats",
+      "probability",
+      "statistical analysis",
+      "data statistics",
+      "quantitative analysis"
+    ],
+    "data science": [
+      "data science",
+      "data",
+      "analytics",
+      "data analysis",
+      "big data",
+      "data scientist",
+      "analyzing data",
+      "business analytics",
+      "predictive analytics",
+      "data driven"
+    ],
+    "computer science": [
+      "cs",
+      "computer science",
+      "coding",
+      "programming",
+      "software",
+      "tech",
+      "computers",
+      "code",
+      "developer stuff",
+      "building apps",
+      "computer programming",
+      "computing",
+      "coding stuff",
+      "software development",
+      "writing code",
+      "app development",
+      "backend",
+      "frontend",
+      "full stack",
+      "algorithms"
+    ],
+    "artificial intelligence": [
+      "ai",
+      "artificial intelligence",
+      "intelligent systems",
+      "generative ai",
+      "genai",
+      "ai systems",
+      "machine intelligence",
+      "smart systems",
+      "llms",
+      "large language models"
+    ],
+    "machine learning": [
+      "ml",
+      "machine learning",
+      "deep learning",
+      "neural networks",
+      "model training",
+      "predictive models",
+      "supervised learning",
+      "unsupervised learning"
+    ],
+    "cybersecurity": [
+      "cybersecurity",
+      "cyber security",
+      "security",
+      "hacking",
+      "infosec",
+      "network security",
+      "ethical hacking",
+      "penetration testing",
+      "cyber",
+      "digital security",
+      "information security"
+    ],
+    "software engineering": [
+      "software engineering",
+      "software engineer",
+      "developer",
+      "development",
+      "engineering software",
+      "building products",
+      "shipping code",
+      "product engineering",
+      "web development",
+      "mobile development",
+      "application development"
+    ],
+    "game development": [
+      "game development",
+      "game dev",
+      "video games",
+      "making games",
+      "game design",
+      "unity",
+      "unreal",
+      "indie games"
+    ],
+    "robotics": [
+      "robotics",
+      "robots",
+      "automation",
+      "robot design",
+      "robot programming",
+      "mechatronics",
+      "autonomous systems"
+    ],
+    "electrical engineering": [
+      "electrical",
+      "electrical engineering",
+      "electronics",
+      "circuits",
+      "embedded systems",
+      "signal processing",
+      "power systems",
+      "ee"
+    ],
+    "mechanical engineering": [
+      "mechanical",
+      "mechanical engineering",
+      "machines",
+      "mechanics",
+      "manufacturing",
+      "cad",
+      "product mechanics",
+      "thermodynamics",
+      "me"
+    ],
+    "civil engineering": [
+      "civil engineering",
+      "civil",
+      "infrastructure",
+      "bridges",
+      "construction",
+      "transportation engineering",
+      "structural engineering"
+    ],
+    "aerospace engineering": [
+      "aerospace",
+      "aerospace engineering",
+      "aviation",
+      "rockets",
+      "spacecraft",
+      "airplanes",
+      "space engineering"
+    ],
+    "biomedical engineering": [
+      "biomedical engineering",
+      "biomed engineering",
+      "medical devices",
+      "bioengineering",
+      "health engineering",
+      "prosthetics",
+      "biomedical devices"
+    ],
+    "environmental science": [
+      "environmental science",
+      "environment",
+      "ecology",
+      "climate",
+      "conservation",
+      "earth science",
+      "sustainability science"
+    ],
+    "sustainability": [
+      "sustainability",
+      "sustainable development",
+      "green tech",
+      "clean energy",
+      "environmental sustainability",
+      "climate solutions"
+    ],
+    "business": [
+      "business",
+      "management",
+      "company",
+      "corporate",
+      "business studies",
+      "operations",
+      "lead a company",
+      "running a business",
+      "biz",
+      "business major"
+    ],
+    "finance": [
+      "finance",
+      "banking",
+      "investment",
+      "investing",
+      "financial markets",
+      "money management",
+      "wealth management",
+      "corporate finance",
+      "stocks",
+      "accounting finance"
+    ],
+    "economics": [
+      "economics",
+      "econ",
+      "microeconomics",
+      "macroeconomics",
+      "economic policy",
+      "markets",
+      "economic analysis"
+    ],
+    "entrepreneurship": [
+      "startup",
+      "startups",
+      "entrepreneurship",
+      "founder",
+      "build a startup",
+      "launch a company",
+      "startup founder",
+      "small business",
+      "innovation business",
+      "venture"
+    ],
+    "marketing": [
+      "marketing",
+      "branding",
+      "advertising",
+      "digital marketing",
+      "social media marketing",
+      "market research",
+      "consumer behavior"
+    ],
+    "psychology": [
+      "psychology",
+      "psych",
+      "mind",
+      "behavior",
+      "mental processes",
+      "human behavior",
+      "therapy",
+      "therapist",
+      "counseling",
+      "mental health field",
+      "behavioral science"
+    ],
+    "law": [
+      "law",
+      "lawyer",
+      "legal",
+      "attorney",
+      "court",
+      "legal studies",
+      "be a lawyer",
+      "future lawyer",
+      "criminal law",
+      "constitutional law"
+    ],
+    "political science": [
+      "political science",
+      "politics",
+      "government",
+      "policy",
+      "public policy",
+      "civics",
+      "elections"
+    ],
+    "international relations": [
+      "international relations",
+      "global affairs",
+      "foreign policy",
+      "diplomacy",
+      "international politics",
+      "global policy"
+    ],
+    "education": [
+      "education",
+      "teaching",
+      "teacher",
+      "teach",
+      "school systems",
+      "pedagogy",
+      "curriculum",
+      "future teacher",
+      "classroom teaching"
+    ],
+    "journalism": [
+      "journalism",
+      "reporting",
+      "news",
+      "media writing",
+      "broadcasting",
+      "reporter"
+    ],
+    "creative writing": [
+      "creative writing",
+      "writing stories",
+      "fiction",
+      "poetry",
+      "author",
+      "storytelling"
+    ],
+    "history": [
+      "history",
+      "historical studies",
+      "past events",
+      "world history",
+      "ancient history"
+    ],
+    "philosophy": [
+      "philosophy",
+      "ethics",
+      "logic",
+      "metaphysics",
+      "philosophical thinking"
+    ],
+    "design": [
+      "design",
+      "ui",
+      "ux",
+      "product design",
+      "user experience",
+      "user interface",
+      "design thinking",
+      "visual design"
+    ],
+    "graphic design": [
+      "graphic design",
+      "graphics",
+      "branding design",
+      "poster design",
+      "illustration",
+      "adobe design"
+    ],
+    "architecture": [
+      "architecture",
+      "architect",
+      "building design",
+      "urban design",
+      "structures",
+      "architectural design"
+    ],
+    "music": [
+      "music",
+      "singing",
+      "instrument",
+      "songwriting",
+      "performance",
+      "musician",
+      "compose music",
+      "music production"
+    ],
+    "film": [
+      "film",
+      "filmmaking",
+      "cinema",
+      "movies",
+      "director",
+      "screenwriting",
+      "videography"
+    ],
+    "arts": [
+      "art",
+      "arts",
+      "drawing",
+      "painting",
+      "fine arts",
+      "studio art",
+      "visual arts",
+      "artist"
+    ],
+    "social impact": [
+      "social impact",
+      "community work",
+      "helping communities",
+      "social good",
+      "nonprofit",
+      "community service",
+      "service work"
+    ],
+    "leadership": [
+      "leadership",
+      "leading people",
+      "team leadership",
+      "be a leader",
+      "student leadership"
+    ],
+    "research": [
+      "research",
+      "lab",
+      "investigation",
+      "scientific research",
+      "academic research",
+      "doing research",
+      "research projects",
+      "lab work",
+      "publish papers"
+    ],
+    "undecided": [
+      "undecided",
+      "not sure",
+      "dont know",
+      "don't know",
+      "confused",
+      "not decided",
+      "still exploring",
+      "open to anything",
+      "figuring it out",
+      "not certain"
+    ]
+  },
+
+  "program_goal": {
+    "research experience": [
+      "research",
+      "lab work",
+      "publish",
+      "paper",
+      "research experience",
+      "do research",
+      "scientific research",
+      "work in a lab",
+      "research project",
+      "academic research",
+      "publish a paper",
+      "learn research",
+      "research exposure",
+      "investigation",
+      "lab experience"
+    ],
+    "college preparation": [
+      "college prep",
+      "college preparation",
+      "prepare for college",
+      "applications",
+      "college admissions",
+      "admissions prep",
+      "application help",
+      "application guidance",
+      "getting into college",
+      "college readiness",
+      "university preparation",
+      "prep for college"
+    ],
+    "career exploration": [
+      "career exploration",
+      "explore careers",
+      "figure out career",
+      "career",
+      "career path",
+      "future career",
+      "see what i like",
+      "explore options",
+      "learn about jobs",
+      "find my career",
+      "try careers"
+    ],
+    "major exploration": [
+      "major exploration",
+      "explore majors",
+      "choose a major",
+      "figure out my major",
+      "academic interests",
+      "what should i major in"
+    ],
+    "hands-on projects": [
+      "hands on",
+      "hands-on",
+      "projects",
+      "build things",
+      "practical",
+      "make things",
+      "interactive",
+      "applied learning",
+      "real projects",
+      "project based",
+      "doing things",
+      "hands on learning"
+    ],
+    "leadership development": [
+      "leadership",
+      "lead",
+      "teamwork",
+      "leading others",
+      "leadership skills",
+      "develop leadership",
+      "team leadership",
+      "be a leader"
+    ],
+    "resume building": [
+      "resume",
+      "cv",
+      "profile building",
+      "strengthen my resume",
+      "college resume",
+      "boost my application",
+      "build my profile",
+      "extracurricular value"
+    ],
+    "mentorship": [
+      "mentor",
+      "mentorship",
+      "guidance",
+      "someone to guide me",
+      "learn from mentors",
+      "guided support",
+      "advisor",
+      "coaching"
+    ],
+    "medical exposure": [
+      "medical exposure",
+      "clinical",
+      "shadowing",
+      "hospital exposure",
+      "see medicine",
+      "observe doctors",
+      "healthcare exposure",
+      "clinical exposure",
+      "medical field exposure"
+    ],
+    "skill development": [
+      "learn skills",
+      "skill development",
+      "improve skills",
+      "develop skills",
+      "learn something useful",
+      "technical skills",
+      "practical skills",
+      "gain skills",
+      "upskill"
+    ],
+    "prestige": [
+      "prestige",
+      "top school",
+      "elite",
+      "famous",
+      "well known",
+      "prestigious",
+      "high status",
+      "big name program",
+      "brand value"
+    ],
+    "networking": [
+      "networking",
+      "connections",
+      "meet people",
+      "professional connections",
+      "build network",
+      "talk to professionals",
+      "meet experts"
+    ],
+    "competition preparation": [
+      "competition prep",
+      "olympiad",
+      "hackathon prep",
+      "science fair",
+      "contest preparation",
+      "debate competition"
+    ],
+    "portfolio building": [
+      "portfolio",
+      "build portfolio",
+      "creative portfolio",
+      "design portfolio",
+      "showcase work",
+      "body of work"
+    ],
+    "confidence building": [
+      "confidence",
+      "be more confident",
+      "self confidence",
+      "confidence building",
+      "be less nervous"
+    ],
+    "meeting like-minded students": [
+      "meet like minded students",
+      "meet people like me",
+      "peer group",
+      "community",
+      "friends with similar interests",
+      "similar students"
+    ]
+  },
+
+  "budget": {
+    "must be free": [
+      "free only",
+      "must be free",
+      "cannot pay",
+      "no money",
+      "zero cost",
+      "completely free",
+      "100% free",
+      "can't afford anything",
+      "need free",
+      "free program only"
+    ],
+    "strongly prefer free": [
+      "prefer free",
+      "ideally free",
+      "want free",
+      "mostly free",
+      "as cheap as possible",
+      "close to free",
+      "free would be best"
+    ],
+    "low cost only": [
+      "cheap",
+      "low cost",
+      "affordable",
+      "budget friendly",
+      "low budget",
+      "not too expensive",
+      "inexpensive",
+      "reasonably priced",
+      "cost effective",
+      "cheap please",
+      "small budget"
+    ],
+    "moderate cost is okay": [
+      "moderate",
+      "reasonable cost",
+      "some cost is okay",
+      "mid range",
+      "medium budget",
+      "okay if not too pricey",
+      "can pay some"
+    ],
+    "cost matters but flexible": [
+      "cost matters",
+      "flexible budget",
+      "depends",
+      "budget depends",
+      "price matters but flexible",
+      "i care about cost",
+      "somewhat flexible"
+    ],
+    "not a major concern": [
+      "not important",
+      "doesn't matter",
+      "not a concern",
+      "budget not important",
+      "cost is fine",
+      "i can pay",
+      "no budget issue",
+      "money is not the issue"
+    ]
+  },
+
+  "format": {
+    "online only": [
+      "online",
+      "virtual only",
+      "remote only",
+      "online only",
+      "fully online",
+      "just online",
+      "digital only",
+      "web based",
+      "internet based"
+    ],
+    "mostly online": [
+      "prefer online",
+      "mostly online",
+      "online preferred",
+      "mainly online",
+      "mostly virtual"
+    ],
+    "hybrid": [
+      "hybrid",
+      "both",
+      "mix of online and in person",
+      "combination",
+      "part online part in person"
+    ],
+    "mostly in-person": [
+      "prefer in person",
+      "mostly in person",
+      "in person preferred",
+      "mainly in person"
+    ],
+    "in-person only": [
+      "in person only",
+      "in-person only",
+      "onsite only",
+      "on site only",
+      "only in person",
+      "must be in person",
+      "physical campus only"
+    ],
+    "either": [
+      "either",
+      "any",
+      "no preference",
+      "anything works",
+      "both are fine",
+      "doesn't matter"
+    ]
+  },
+
+  "location": {
+    "Arizona": [
+      "arizona",
+      "asu",
+      "phoenix",
+      "tempe",
+      "scottsdale",
+      "mesa",
+      "tucson",
+      "az",
+      "local arizona"
+    ],
+    "West Coast": [
+      "west coast",
+      "california",
+      "stanford",
+      "ucla",
+      "berkeley",
+      "usc",
+      "ucsd",
+      "los angeles",
+      "san francisco",
+      "seattle",
+      "washington state",
+      "oregon",
+      "pacific coast"
+    ],
+    "East Coast": [
+      "east coast",
+      "new york",
+      "boston",
+      "yale",
+      "harvard",
+      "columbia",
+      "mit",
+      "princeton",
+      "philadelphia",
+      "washington dc",
+      "massachusetts",
+      "new jersey"
+    ],
+    "Midwest": [
+      "midwest",
+      "chicago",
+      "illinois",
+      "michigan",
+      "ohio",
+      "wisconsin",
+      "minnesota",
+      "indiana",
+      "midwestern"
+    ],
+    "South": [
+      "south",
+      "texas",
+      "florida",
+      "georgia",
+      "north carolina",
+      "south carolina",
+      "tennessee",
+      "alabama",
+      "louisiana"
+    ],
+    "anywhere in the U.S.": [
+      "anywhere",
+      "us",
+      "united states",
+      "anywhere in the us",
+      "domestic",
+      "within the us",
+      "any state",
+      "nationwide"
+    ],
+    "international": [
+      "international",
+      "outside us",
+      "abroad",
+      "overseas",
+      "outside the country",
+      "global",
+      "internationally"
+    ],
+    "remote only": [
+      "remote",
+      "online only",
+      "virtual only",
+      "stay at home",
+      "from home",
+      "distance only"
+    ],
+    "no preference": [
+      "no preference",
+      "either",
+      "anywhere",
+      "location doesn't matter",
+      "open location",
+      "flexible location"
+    ]
+  },
+
+  "selectivity": {
+    "very competitive": [
+      "very competitive",
+      "top tier",
+      "elite",
+      "prestigious",
+      "highly selective",
+      "top programs",
+      "hard to get into",
+      "best of the best",
+      "top ranked"
+    ],
+    "competitive": [
+      "competitive",
+      "strong program",
+      "selective",
+      "good reputation",
+      "solidly competitive"
+    ],
+    "balanced": [
+      "balanced",
+      "medium",
+      "moderate",
+      "middle ground",
+      "mix",
+      "not too hard not too easy"
+    ],
+    "less competitive": [
+      "less competitive",
+      "easier",
+      "not too selective",
+      "more accessible",
+      "lower competition"
+    ],
+    "open enrollment": [
+      "open enrollment",
+      "anyone can join",
+      "open to all",
+      "easy to join",
+      "no application needed",
+      "everyone can apply"
+    ],
+    "no preference": [
+      "no preference",
+      "either",
+      "any",
+      "doesn't matter",
+      "open to anything"
+    ]
+  },
+
+  "duration": {
+    "under 1 week": [
+      "few days",
+      "short",
+      "under 1 week",
+      "under a week",
+      "3 days",
+      "5 days",
+      "weekend",
+      "very short"
+    ],
+    "1 to 2 weeks": [
+      "1 week",
+      "2 weeks",
+      "one to two weeks",
+      "about a week",
+      "around two weeks",
+      "7 days",
+      "10 days",
+      "14 days"
+    ],
+    "2 to 4 weeks": [
+      "3 weeks",
+      "4 weeks",
+      "two to four weeks",
+      "around a month",
+      "few weeks",
+      "3 to 4 weeks",
+      "month long"
+    ],
+    "4 to 8 weeks": [
+      "1 month",
+      "6 weeks",
+      "8 weeks",
+      "4 weeks",
+      "5 weeks",
+      "longer program",
+      "summer long"
+    ],
+    "8+ weeks": [
+      "2 months",
+      "8+ weeks",
+      "long term",
+      "very long",
+      "semester style",
+      "extended program"
+    ],
+    "no preference": [
+      "no preference",
+      "any",
+      "either",
+      "length doesn't matter"
+    ]
+  },
+
+  "season": {
+    "summer": [
+      "summer",
+      "summer break",
+      "during summer",
+      "june",
+      "july",
+      "august"
+    ],
+    "fall": [
+      "fall",
+      "autumn",
+      "during fall",
+      "september",
+      "october",
+      "november"
+    ],
+    "spring": [
+      "spring",
+      "during spring",
+      "march",
+      "april",
+      "may"
+    ],
+    "winter": [
+      "winter",
+      "during winter",
+      "december",
+      "january",
+      "february",
+      "winter break"
+    ],
+    "any term": [
+      "any",
+      "either",
+      "no preference",
+      "any term",
+      "any season",
+      "whenever"
+    ]
+  },
+
+  "grade_level": {
+    "middle school": [
+      "middle school",
+      "grade 6",
+      "grade 7",
+      "grade 8",
+      "6th",
+      "7th",
+      "8th",
+      "middle schooler",
+      "younger student"
+    ],
+    "early high school": [
+      "freshman",
+      "sophomore",
+      "early high school",
+      "9th",
+      "10th",
+      "grade 9",
+      "grade 10",
+      "first year high school",
+      "second year high school"
+    ],
+    "junior high school": [
+      "junior",
+      "11th",
+      "grade 11",
+      "eleventh grade",
+      "high school junior"
+    ],
+    "senior high school": [
+      "senior",
+      "12th",
+      "grade 12",
+      "twelfth grade",
+      "high school senior"
+    ],
+    "high school graduate": [
+      "graduate",
+      "gap year",
+      "finished high school",
+      "post high school",
+      "recent graduate",
+      "graduated already"
+    ],
+    "no preference": [
+      "no preference",
+      "any",
+      "either",
+      "grade doesn't matter"
+    ]
+  },
+
+  "support_type": {
+    "faculty mentorship": [
+      "faculty mentorship",
+      "professor",
+      "faculty",
+      "teacher guidance",
+      "learn from professors",
+      "professor mentorship",
+      "academic mentor",
+      "faculty support",
+      "teacher mentor"
+    ],
+    "student mentorship": [
+      "student mentorship",
+      "peer mentor",
+      "college mentor",
+      "student guide",
+      "mentor from college",
+      "older student mentor"
+    ],
+    "small class size": [
+      "small class",
+      "small group",
+      "small cohort",
+      "close attention",
+      "more personal setting",
+      "fewer students"
+    ],
+    "project guidance": [
+      "project guidance",
+      "hands-on help",
+      "build projects",
+      "help with projects",
+      "guided projects",
+      "project mentoring",
+      "practical help"
+    ],
+    "peer community": [
+      "peer community",
+      "community",
+      "friends",
+      "network",
+      "social group",
+      "meeting people",
+      "student community",
+      "peer support"
+    ],
+    "application guidance": [
+      "application guidance",
+      "college applications",
+      "admissions help",
+      "essay help",
+      "application support",
+      "college counseling"
+    ],
+    "career guidance": [
+      "career guidance",
+      "career advice",
+      "professional guidance",
+      "job guidance",
+      "help choosing career",
+      "career mentorship"
+    ],
+    "research mentorship": [
+      "research mentorship",
+      "lab mentor",
+      "research guide",
+      "research advisor",
+      "scientific mentor",
+      "help in lab"
+    ],
+    "independent exploration": [
+      "independent",
+      "self paced",
+      "explore alone",
+      "own pace",
+      "work independently",
+      "self directed",
+      "explore by myself"
+    ],
+    "no preference": [
+      "no preference",
+      "either",
+      "any",
+      "doesn't matter",
+      "open to anything"
+    ]
+  },
+  "gpa_range": {
+	  "3.8+": ["3.8", "3.9", "4.0", "high gpa", "excellent gpa", "top grades"],
+	  "3.5-3.79": ["3.5", "3.6", "3.7", "good gpa", "strong grades"],
+	  "3.0-3.49": ["3.0", "3.1", "3.2", "3.3", "average gpa", "okay grades"],
+	  "below 3.0": ["below 3", "2.9", "2.8", "low gpa"],
+	  "prefer not to say": ["prefer not to say", "skip", "dont want to share"]
+	},
+
+	"coursework_level": {
+	  "none yet": ["none", "no classes", "not yet", "just starting"],
+	  "introductory coursework": ["intro", "basic", "beginner class"],
+	  "advanced coursework": ["advanced", "higher level", "difficult classes"],
+	  "honors / AP / IB level": ["ap", "ib", "honors", "college level"],
+	  "prefer not to say": ["prefer not to say", "skip"]
+	},
+
+	"prior_experience": {
+	  "none": ["none", "no experience", "just starting"],
+	  "beginner": ["beginner", "little experience"],
+	  "some experience": ["some", "a few projects", "basic projects"],
+	  "strong experience": ["strong", "advanced", "internship", "research"],
+	  "prefer not to say": ["prefer not to say", "skip"]
+	}
+}

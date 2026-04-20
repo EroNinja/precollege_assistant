@@ -1,0 +1,236 @@
+[
+  {
+    "id": "interest_area",
+    "text": "What subjects, careers, or areas are you most interested in?",
+    "field": "interests",
+    "options": [
+      "medicine",
+      "pre-med",
+      "nursing",
+      "dentistry",
+      "public health",
+      "pharmacy",
+      "biology",
+      "biotechnology",
+      "genetics",
+      "neuroscience",
+      "chemistry",
+      "biochemistry",
+      "physics",
+      "mathematics",
+      "statistics",
+      "data science",
+      "computer science",
+      "artificial intelligence",
+      "machine learning",
+      "cybersecurity",
+      "software engineering",
+      "game development",
+      "robotics",
+      "electrical engineering",
+      "mechanical engineering",
+      "civil engineering",
+      "aerospace engineering",
+      "biomedical engineering",
+      "environmental science",
+      "sustainability",
+      "business",
+      "finance",
+      "economics",
+      "entrepreneurship",
+      "marketing",
+      "psychology",
+      "research",
+      "law",
+      "political science",
+      "international relations",
+      "education",
+      "journalism",
+      "creative writing",
+      "history",
+      "philosophy",
+      "design",
+      "graphic design",
+      "architecture",
+      "music",
+      "film",
+      "arts",
+      "social impact",
+      "leadership",
+      "undecided"
+    ]
+  },
+  {
+    "id": "program_goal",
+    "text": "What do you want most from a pre-college program?",
+    "field": "goals",
+    "options": [
+      "college preparation",
+      "resume building",
+      "research experience",
+      "hands-on projects",
+      "career exploration",
+      "major exploration",
+      "medical exposure",
+      "lab experience",
+      "internship-style experience",
+      "mentorship",
+      "networking",
+      "leadership development",
+      "competition preparation",
+      "portfolio building",
+      "skill development",
+      "academic challenge",
+      "prestige",
+      "admissions advantage",
+      "confidence building",
+      "meeting like-minded students"
+    ]
+  },
+  {
+    "id": "budget",
+    "text": "How important is cost when choosing a program?",
+    "field": "budget",
+    "options": [
+      "must be free",
+      "strongly prefer free",
+      "low cost only",
+      "moderate cost is okay",
+      "cost matters but flexible",
+      "not a major concern"
+    ]
+  },
+  {
+    "id": "format",
+    "text": "What format do you prefer?",
+    "field": "format",
+    "options": [
+      "online only",
+      "mostly online",
+      "hybrid",
+      "mostly in-person",
+      "in-person only",
+      "either"
+    ]
+  },
+  {
+    "id": "location",
+    "text": "Do you have any location preference?",
+    "field": "location",
+    "options": [
+      "Arizona",
+      "West Coast",
+      "East Coast",
+      "Midwest",
+      "South",
+      "anywhere in the U.S.",
+      "international",
+      "remote only",
+      "no preference"
+    ]
+  },
+  {
+    "id": "selectivity",
+    "text": "What type of selectivity are you comfortable with?",
+    "field": "selectivity",
+    "options": [
+      "very competitive",
+      "competitive",
+      "balanced",
+      "less competitive",
+      "open enrollment",
+      "no preference"
+    ]
+  },
+  {
+    "id": "duration",
+    "text": "What program length do you prefer?",
+    "field": "duration",
+    "options": [
+      "under 1 week",
+      "1 to 2 weeks",
+      "2 to 4 weeks",
+      "4 to 8 weeks",
+      "8+ weeks",
+      "no preference"
+    ]
+  },
+  {
+    "id": "season",
+    "text": "When would you prefer to attend?",
+    "field": "season",
+    "options": [
+      "summer",
+      "fall",
+      "spring",
+      "winter",
+      "any term"
+    ]
+  },
+  {
+    "id": "grade_level",
+    "text": "What grade level should the program be appropriate for?",
+    "field": "grade_level",
+    "options": [
+      "middle school",
+      "early high school",
+      "junior high school",
+      "senior high school",
+      "high school graduate",
+      "no preference"
+    ]
+  },
+  {
+    "id": "support_type",
+    "text": "What kind of support or experience matters most to you?",
+    "field": "support_type",
+    "options": [
+      "faculty mentorship",
+      "student mentorship",
+      "small class size",
+      "project guidance",
+      "peer community",
+      "application guidance",
+      "career guidance",
+      "research mentorship",
+      "independent exploration",
+      "no preference"
+    ]
+  },
+  {
+    "id": "gpa_range",
+    "text": "What GPA range best describes you?",
+    "field": "gpa_range",
+    "options": [
+      "3.8+",
+      "3.5-3.79",
+      "3.0-3.49",
+      "below 3.0",
+      "prefer not to say"
+    ]
+  },
+  {
+    "id": "coursework_level",
+    "text": "How much relevant coursework have you taken in this area?",
+    "field": "coursework_level",
+    "options": [
+      "none yet",
+      "introductory coursework",
+      "advanced coursework",
+      "honors / AP / IB level",
+      "prefer not to say"
+    ]
+  },
+  {
+    "id": "prior_experience",
+    "text": "How much prior experience do you already have in this area?",
+    "field": "prior_experience",
+    "options": [
+      "none",
+      "beginner",
+      "some experience",
+      "strong experience",
+      "prefer not to say"
+    ]
+  }
+]
